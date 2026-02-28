@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, sou o Lucas 👋
 
-<!--
-**lucasilva-io/lucasilva-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=net" height="60" alt=".net logo" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+<div align="left">
+  <a href="https://br.linkedin.com/in/lucas-silva-01aa85251" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasilva-io&theme=dracula" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasilva-io&theme=dracula" height="150" />
+</div>
