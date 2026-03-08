@@ -11,8 +11,6 @@
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=net" height="60" alt=".net logo" />
 </div>
 
 ## Contato
