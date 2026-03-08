@@ -16,7 +16,7 @@
 ## Contato
 <div align="left">
   <a href="https://br.linkedin.com/in/lucas-silva-01aa85251" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-FFD700?logo=linkedin&logoColor=black&style=for-the-badge"/>
   </a>
 </div>
 
